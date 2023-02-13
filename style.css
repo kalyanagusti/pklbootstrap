@@ -1,0 +1,23 @@
+*{
+}
+body{
+	background-color: rgb(19, 177, 188);
+	background-position: left;
+	background-size: cover;
+	background-repeat: no-repeat;
+    font-family: 'Gill Sans';
+
+}
+h3{
+    font-family: verdana;
+}
+h6{
+    font-style: oblique;
+}
+h3{
+    font-family: verdana;
+}
+h5{
+    font-family: 'Times New Roman';
+    
+}
